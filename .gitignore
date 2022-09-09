@@ -1,0 +1,7 @@
+.idea/
+WEB-INF/
+META-INF/
+node_modules/
+logs/**
+dist/**
+.vscode

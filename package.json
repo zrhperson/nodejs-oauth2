@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-oauth2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node oauth/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrhperson/nodejs-oauth2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrhperson/nodejs-oauth2/issues"
+  },
+  "homepage": "https://github.com/zrhperson/nodejs-oauth2#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "uuid": "^9.0.0"
+  }
+}
